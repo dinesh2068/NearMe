@@ -199,6 +199,10 @@ port.html
 
 ## OUTPUT
 ![Screenshot 2023-12-31 165341](https://github.com/dinesh2068/NearMe/assets/151390189/40d4ec17-9702-44b6-927a-9b2f78784dc9)
+![Screenshot 2023-12-31 165510](https://github.com/dinesh2068/NearMe/assets/151390189/2c365b2d-af1c-49d5-a1a0-f06c313613e4)
+![Screenshot 2023-12-31 165534](https://github.com/dinesh2068/NearMe/assets/151390189/c2e69f67-6780-4a66-8304-1bf0dee6df3d)
+![Screenshot 2023-12-31 165618](https://github.com/dinesh2068/NearMe/assets/151390189/3fb31df5-492b-47da-b3c4-baf650be4f6b)
+![Screenshot 2023-12-31 165645](https://github.com/dinesh2068/NearMe/assets/151390189/37d7fac8-5323-41e0-ab1c-a58c164cc2f7)
 
 
 ## RESULT
