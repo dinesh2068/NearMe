@@ -198,6 +198,7 @@ port.html
 </html>
 
 ## OUTPUT
+![map](https://github.com/dinesh2068/NearMe/assets/151390189/bf18c2b8-ec1d-41b0-8913-9ece87a77078)
 ![Screenshot 2023-12-31 165341](https://github.com/dinesh2068/NearMe/assets/151390189/40d4ec17-9702-44b6-927a-9b2f78784dc9)
 ![Screenshot 2023-12-31 165510](https://github.com/dinesh2068/NearMe/assets/151390189/2c365b2d-af1c-49d5-a1a0-f06c313613e4)
 ![Screenshot 2023-12-31 165534](https://github.com/dinesh2068/NearMe/assets/151390189/c2e69f67-6780-4a66-8304-1bf0dee6df3d)
