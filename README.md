@@ -198,11 +198,7 @@ port.html
 </html>
 
 ## OUTPUT
-![central](<screenshots/Screenshot 2023-12-31 165341.png>)
-![egmore](<screenshots/Screenshot 2023-12-31 165510.png>)
-![fort](<screenshots/Screenshot 2023-12-31 165534.png>)
-![hospital](<screenshots/Screenshot 2023-12-31 165618.png>)
-![port](<screenshots/Screenshot 2023-12-31 165645.png>)
+![Screenshot 2023-12-31 165341](https://github.com/dinesh2068/NearMe/assets/151390189/40d4ec17-9702-44b6-927a-9b2f78784dc9)
 
 
 ## RESULT
